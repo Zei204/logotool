@@ -1,0 +1,7 @@
+# Partition dumps are third-party data and must not be committed.
+*.img
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
